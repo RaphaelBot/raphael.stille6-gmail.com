@@ -1,35 +1,35 @@
 @font-face {
-    font-family: 'opendyslexic';
-    src: url('https://qwerasd205.github.io/font/OpenDyslexic-Regular.woff');
+    font-family: 'Letters for Learners Dots.ttf';
+    src: url('hhttps://github.com/RaphaelBot/raphael.stille6-gmail.com/blob/master/Letters%20for%20Learners%20Dots.ttf?raw=true);
     font-style: normal;
     font-weight: normal;
 } 
 
 @font-face {
-	font-family: 'opendyslexic';
-	src: url('https://qwerasd205.github.io/font/OpenDyslexic-Italic.woff');
-	font-style: italic;
+	font-family: 'Letters for Learners Dots.ttf';
+	src: url('hhttps://github.com/RaphaelBot/raphael.stille6-gmail.com/blob/master/Letters%20for%20Learners%20Dots.ttf?raw=true);
+    font-style: italic;
 	font-weight: normal;
 }
 
 @font-face {
-	font-family: 'opendyslexic';
-	src: url('https://qwerasd205.github.io/font/OpenDyslexic-Bold.woff');
-	font-weight: bold;
+	font-family: 'Letters for Learners Dots.ttf';
+	src: url('hhttps://github.com/RaphaelBot/raphael.stille6-gmail.com/blob/master/Letters%20for%20Learners%20Dots.ttf?raw=true);
+    font-weight: bold;
 	font-style: normal;
 } 
 
 @font-face {
-	font-family: 'opendyslexic';
-	src: url('https://qwerasd205.github.io/font/OpenDyslexic-BoldItalic.woff');
-	font-weight: bold;
+	font-family: 'Letters for Learners Dots.ttf';
+	src: url('hhttps://github.com/RaphaelBot/raphael.stille6-gmail.com/blob/master/Letters%20for%20Learners%20Dots.ttf?raw=true);
+    font-weight: bold;
 	font-style: italic;
 }
 
 /* ----------------------------------------------------------------------- */
 
 *:not(code), ::-webkit-input-placeholder {
-    font-family: opendyslexic !important;
+    font-family: Letters for Learners Dots !important;
     font-size: var(--font-size, initial);
     word-spacing: var(--word-spacing, initial);
     letter-spacing: var(--letter-spacing, initial);
